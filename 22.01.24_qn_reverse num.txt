@@ -29,11 +29,9 @@ Sample Output 1
 
 1432
 
+Solution 1
 
-# input number
 N = input()
-
-# Reverse number
 print(N[::-1])
 
 
