@@ -30,20 +30,13 @@ Sample Output 1
 6
 
 
-program:
+Solution 
 
-# input number
 N = int(input())
-
-# counter for digits
 count_digits = 0
-
-# Count the number of digits using a loop
 while N > 0:
     N //= 10
     count_digits += 1
-
-# Print the result
 print(count_digits)
 
 
