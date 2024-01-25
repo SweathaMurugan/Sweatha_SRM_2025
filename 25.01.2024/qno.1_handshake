@@ -32,6 +32,8 @@ Sample Output
 0
 1
 
+Solution:
+
 import math
 import os
 import random
